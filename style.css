@@ -2,3 +2,7 @@ body {
     font-family: 'Lobster', cursive;
     font-family: 'Poppins', sans-serif;
 }
+
+.cover-img {
+    filter: brightness(40%);
+}
